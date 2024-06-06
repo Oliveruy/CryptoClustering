@@ -10,7 +10,7 @@ The repository contains the following files and directories:
 
 - `Resources/`: A folder containing the CSV file with the cryptocurrency data.
   - `crypto_market_data.csv`: The dataset used for the analysis.
-- `crypto_analysis.ipynb`: A Jupyter Notebook file where the analysis and clustering were conducted.
+- `Crypto_Clustering.ipynb`: A Jupyter Notebook file where the analysis and clustering were conducted.
 - `README.md`: This file, providing an overview of the project and its dependencies.
 
 ## Dependencies
